@@ -1,0 +1,115 @@
+body {
+    background-color: aqua;
+    font-family: "Calibri Light";
+    font-weight: 900;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label-name {
+
+}
+.name-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-secondname {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label-secondname {
+
+}
+.secondname-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-lastname {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label-lastname {
+
+}
+.lastname-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-age {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label-age {
+
+}
+.age-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-country {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.label-country {
+
+}
+.country-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-position {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.abel-position {
+
+}
+.position-input {
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:0 0 5px 2px black;
+}
+.form-button {
+
+}
+.submit-button {
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #abdcf1;
+    border:0;
+    box-shadow:inset 0 0 5px 2px black;
+}
+.message {
+    padding-top: 5px;
+    color: red;
+}
